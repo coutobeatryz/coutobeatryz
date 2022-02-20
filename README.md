@@ -1,4 +1,5 @@
   ## Hello world! Eu sou a Beatryz Couto
+  <img align="middle" alt="Rafa-yoda" src="https://64.media.tumblr.com/87825da06a620e00252e34085580baea/1872d2eea5c33826-76/s400x600/588d72e86faf3692124303fec76dc999207c1555.gifv">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -8,7 +9,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" height="128" width="128" src="https://64.media.tumblr.com/ff7551a325771cbae85ccf52fd42e8e7/bcd196bb123f6c11-f3/s400x600/7d90562edbf81622e0f12472562d14e801b20e72.gifv">
+  <img align="right" alt="Rafa-yoda" height="128" width="128" src="https://64.media.tumblr.com/2d495795ae2abd4d529a6dd4b4492417/1872d2eea5c33826-5a/s100x200/f484064b246e3dadf78d8d16ea6b275c8d6678bc.gifv">
 </div>
   
   ##
