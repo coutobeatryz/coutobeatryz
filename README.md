@@ -1,5 +1,5 @@
   ## Hello world! Eu sou a Beatryz Couto
-  <img align="middle" alt="Rafa-yoda" src="https://64.media.tumblr.com/87825da06a620e00252e34085580baea/1872d2eea5c33826-76/s400x600/588d72e86faf3692124303fec76dc999207c1555.gifv">
+  <img align="center" alt="Rafa-yoda" src="https://64.media.tumblr.com/87825da06a620e00252e34085580baea/1872d2eea5c33826-76/s400x600/588d72e86faf3692124303fec76dc999207c1555.gifv">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
