@@ -8,7 +8,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://64.media.tumblr.com/ff7551a325771cbae85ccf52fd42e8e7/bcd196bb123f6c11-f3/s400x600/7d90562edbf81622e0f12472562d14e801b20e72.gifv">
+  <img align="right" alt="Rafa-yoda" height="128" width="128" src="https://64.media.tumblr.com/ff7551a325771cbae85ccf52fd42e8e7/bcd196bb123f6c11-f3/s400x600/7d90562edbf81622e0f12472562d14e801b20e72.gifv">
 </div>
   
   ##
