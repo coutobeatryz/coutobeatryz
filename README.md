@@ -10,7 +10,7 @@
   <a href="https://instagram.com/coutobeatryz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:coutobeatryz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatryzcouto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<img align="right" alt="Rafa-yoda" src="https://64.media.tumblr.com/87825da06a620e00252e34085580baea/1872d2eea5c33826-76/s400x600/588d72e86faf3692124303fec76dc999207c1555.gifv">
+<img align="center" alt="Rafa-yoda" src="https://64.media.tumblr.com/87825da06a620e00252e34085580baea/1872d2eea5c33826-76/s400x600/588d72e86faf3692124303fec76dc999207c1555.gifv">
 </div>
 
 #
