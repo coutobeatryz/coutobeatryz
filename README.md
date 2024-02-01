@@ -15,10 +15,12 @@
 #
 
 <div align="center">
+  
   ![bea's GitHub stats](https://github-readme-stats.vercel.app/api?username=coutobeatryz&show_icons=true&theme=radical)  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutobeatryz&layout=compact&theme=dracula" width="400">
 </div>
 
 <div align="center">
+  
   ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 </div>
