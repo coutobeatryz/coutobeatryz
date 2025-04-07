@@ -31,10 +31,7 @@
 
 </div>
 
-
-#
-
-### Conhecimentos
+## Conhecimentos
 
 <div align="left">
 
