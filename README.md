@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=coutobeatryz&show_icons=true&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=coutobeatryz&show_icons=true&theme=radical" width="525">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutobeatryz&layout=compact&theme=dracula" width="400">
 
 </div>
